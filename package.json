@@ -1,0 +1,21 @@
+{
+  "name": "bibi",
+  "displayName": "",
+  "description": "Cute light theme, with purple, pink, light blue. Colors are kinda pastel, kinda vibrant (good to the eyes).",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Algodão-doce theme",
+        "uiTheme": "vs",
+        "path": "./themes/Algodão-doce theme-color-theme.json"
+      }
+    ]
+  }
+}
