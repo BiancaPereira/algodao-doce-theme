@@ -4,7 +4,8 @@
   "displayName": "Algodão-doce Theme",
   "publisher": "BiancaPereira",
   "description": "Cute light theme, with purple, pink, light blue. Colors are kinda pastel, kinda vibrant (good to the eyes).",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.85.0"
   },
