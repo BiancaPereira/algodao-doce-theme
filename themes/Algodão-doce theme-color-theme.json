@@ -1,5 +1,5 @@
 {
-  "name": "Algodão-doce theme",
+  "name": "Algodão-doce Theme",
   "type": "light",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1938,8 +1938,8 @@
     "editor.lineHighlightBorder": "#eeeeee",
     "editorLineNumber.activeForeground": "#3bade4",
     "editorLink.activeForeground": "#cc26fd",
-    "editorIndentGuide.background": "#d3d3d3",
-    "editorIndentGuide.activeBackground": "#939393",
+    "editorIndentGuide.background1": "#d3d3d3",
+    "editorIndentGuide.activeBackground1": "#939393",
     "editorRuler.foreground": "#d3d3d3",
     "editorBracketMatch.background": "#0064001a",
     "editorBracketMatch.border": "#b9b9b9",

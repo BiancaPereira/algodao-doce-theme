@@ -1,6 +1,8 @@
 {
-  "name": "bibi",
-  "displayName": "",
+  "name": "algodao-doce-theme",
+  "repository": "https://github.com/BiancaPereira/algodao-doce-theme",
+  "displayName": "Algodão-doce Theme",
+  "publisher": "BiancaPereira",
   "description": "Cute light theme, with purple, pink, light blue. Colors are kinda pastel, kinda vibrant (good to the eyes).",
   "version": "0.0.1",
   "engines": {
