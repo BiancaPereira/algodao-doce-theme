@@ -1,4 +1,4 @@
-# Algodão-doce Theme
+# Chiclete de uva | Theme
 
 Esse é um tema colorido e fofo, com cores meio pastéis e meio vibrantes (boa para os olhos).
 

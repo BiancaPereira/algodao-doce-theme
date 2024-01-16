@@ -1,5 +1,5 @@
 {
-  "name": "Algodão-doce",
+  "name": "Chiclete de uva | Theme",
   "type": "light",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1866,7 +1866,7 @@
     "list.inactiveSelectionForeground": "#6b6b6b",
     "list.hoverBackground": "#e9bbf7c5",
     "list.hoverForeground": "#363636",
-    "list.activeSelectionBackground": "#e0719a",
+    "list.activeSelectionBackground": "#08b1f2",
     "list.activeSelectionForeground": "#ffffff",
     "tree.indentGuidesStroke": "#a9a9a9",
     "list.dropBackground": "#e5d1ec",
